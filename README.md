@@ -1,4 +1,4 @@
-# 📸 Instagram Clone | Responsive Web App with Dark Mode Toggle & Picture Swiping
+# 📸 Instagram Clone
 
 - This Instagram Clone replicates the core functionality and user interface of the popular social media platform, featuring a fully responsive design optimized for all screen sizes—from desktops to mobile devices. The clone includes a dark mode toggle, allowing users to seamlessly switch between light and dark themes for a personalized viewing experience. Additionally, picture swiping functionality provides an engaging way to browse posts and interact with images just like on the original app. 📱🌑✨
 
